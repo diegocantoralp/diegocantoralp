@@ -6,7 +6,7 @@
 
 ## About Me
 
-Hey My Name is Diego Cantoral, I'm a 3rd year Software Engineer student at UPC.I am a Tech Enthusiast. Looking forward to learn new skills and add them in the list.
+Hey My Name is Diego Cantoral, I'm a 3rd year Software Engineer student at UPC. I am a Tech Enthusiast looking forward to learn new skills and add them in the list.
 
 <hr/>
 
